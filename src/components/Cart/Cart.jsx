@@ -40,7 +40,7 @@ const Cart = ({cart, handleUpdateCartQty, handleRemoveFromCart, handleEmptyCart}
                         Checkout
                     </Button>
                 </div>
-            </div>
+            </div> 
         </>
     )
 
